@@ -11,10 +11,10 @@ export const site = {
     line2: "Bar, Rajasthan 306105",
     full: "New Jodhpur Sweets and Namkeens, NH65A, Ramdev Colony, Bar, Rajasthan 306105",
   },
-  // TODO: replace with the shop's real numbers (digits only, with country code)
-  phone: "910000000000",
-  phoneDisplay: "+91 00000 00000",
-  whatsapp: "910000000000",
+  // digits only, with country code
+  phone: "917291085606",
+  phoneDisplay: "+91 72910 85606",
+  whatsapp: "917291085606",
   // TODO: confirm real opening hours (24h clock)
   hours: { open: 7, close: 22, label: "Every day · 7:00 AM – 10:00 PM" },
 } as const;
